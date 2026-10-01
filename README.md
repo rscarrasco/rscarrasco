@@ -9,6 +9,7 @@ Some facts about me:
   - :hourglass_flowing_sand: I've been programming for almost two decades already.
   - :seedling: I'm slowly learning (and loving!) Haskell.
   - :full_moon: My favorite programming language is Lua.
+  - :gemini: I have a Gemini capsule! gemini://tilde.green/~rifter
   - :cow::pig::chicken: I'm vegan.
   
 And that's it. Have a nice day!
